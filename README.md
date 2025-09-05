@@ -1,4 +1,4 @@
-# Jump Detection in Glassy Systems (Based on Pigolotti and Roldán-Vargas, 2024)
+# Jumps Detection in Glassy Systems (Based on Pigolotti and Roldán-Vargas, 2024)
 
 The project consists of a Python implementation of the synthetic model described in the [Inspection paradox and jump detection in glassy systems](https://arxiv.org/abs/2407.19873) paper by Simone Pigolotti and Sándalo Roldán-Vargas. <br />
 
